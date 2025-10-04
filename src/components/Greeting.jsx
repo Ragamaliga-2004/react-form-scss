@@ -4,10 +4,14 @@ const Greeting = ({ name }) => {
   return (
     <h1
       style={{
-        color: "darkblack",
+        color: "#4B0082",
+        textAlign: "center",
+        fontSize: "2.5rem",
+        marginBottom: "30px",
+        textShadow: "2px 2px #ccc",
       }}
     >
-      Hello {name}
+      Hello {name}!
     </h1>
   );
 };
