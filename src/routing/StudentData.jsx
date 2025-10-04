@@ -1,0 +1,24 @@
+export const students = [{
+    studentId:1,
+    studentName:"Priya",
+    department:"CSE",
+    yearOfPassing:2023
+},
+{
+    studentId:2,
+    studentName:"Renu",
+    department:"ECE",
+    yearOfPassing:2024
+},
+{
+    studentId:3,
+    studentName:"Lakshmi",
+    department:"EEE",
+    yearOfPassing:2023
+},
+{
+    studentId:4,
+    studentName:"Mahii",
+    department:"MCA",
+    yearOfPassing:2023
+}]
